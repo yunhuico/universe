@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+  	"spark-notebook": {
+  	  "description": "Spark Notebook configuration properties",
+      "type": "object",
+      "properties": {
+      }
+  	}
+  }
+}
